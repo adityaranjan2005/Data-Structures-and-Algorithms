@@ -1,0 +1,45 @@
+Problem Description
+
+Given an sorted array A of size N. Find number of elements which are less than or equal to B.
+
+NOTE: Expected Time Complexity O(log N)
+
+
+
+Problem Constraints
+1 <= N <= 106
+
+1 <= A[i], B <= 109
+
+
+
+Input Format
+First agument is an integer array A of size N.
+
+Second argument is an integer B.
+
+
+
+Output Format
+Return an integer denoting the number of elements which are less than or equal to B.
+
+Solution:
+
+class Solution:
+    # @param A : list of integers
+    # @param B : integer
+    # @return an integer
+    def solve(self, A, B):
+        low, high = 0, len(A) - 1
+        result = -1  # Initialize result to -1
+
+        while low <= high:
+            mid = (low + high) // 2
+
+            if A[mid] <= B:
+                result = mid  # Update result and search on the right side
+                low = mid + 1
+            else:
+                high = mid - 1  # Search on the left side
+
+        return result + 1 if result != -1 else 0  # Check if any element is found, then add 1; else, return 0
