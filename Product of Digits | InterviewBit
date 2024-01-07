@@ -1,0 +1,16 @@
+Problem Description
+
+Given an integer A.
+Find the product of all of its digits.
+
+
+Solution: 
+
+class Solution:
+    # @param A: integer
+    # @return an integer
+    def solve(self, A):
+        product = 1
+        for digit in str(A):
+            product *= int(digit)
+        return product
