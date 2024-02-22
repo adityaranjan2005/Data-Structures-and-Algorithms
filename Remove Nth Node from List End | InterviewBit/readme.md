@@ -49,10 +49,12 @@ Example Output
  [] 
 
 
-Example Explanation
+# Example Explanation
+
 Explanation 1:
 
 In the first example, 4 is the second last element.
+
 Explanation 2:
 
 In the second example, 1 is the first and the last element.
