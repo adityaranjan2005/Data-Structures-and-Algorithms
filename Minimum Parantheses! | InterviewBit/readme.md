@@ -1,4 +1,4 @@
-Problem Description
+# Problem Description
 
 Given a string A of parantheses  ‘(‘ or ‘)’.
 
