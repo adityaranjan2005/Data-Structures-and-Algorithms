@@ -1,0 +1,10 @@
+The first person's response is unknown because it's in a language you don't understand.
+The second person claims to belong to the Lie Tribe.
+The third person says that the second person is lying.
+Given that the Lie Tribe always speaks lies and the True Tribe always speaks truth:
+
+If the second person were from the Lie Tribe, then he would be telling the truth about belonging to the Lie Tribe. However, this would contradict the fact that the Lie Tribe always lies, so the second person must be from the True Tribe.
+
+Since the second person is from the True Tribe, his statement that he belongs to the Lie Tribe is false. Therefore, the third person, who claims that the second person is lying, must also be telling the truth.
+
+So, the third person belongs to the Truth Tribe
