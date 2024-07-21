@@ -10,6 +10,8 @@ Sample Input
 42
 100
 125
+
+
 Sample Output
 
 42
