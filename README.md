@@ -1,5 +1,3 @@
-Here's a basic template for your DSA (Data Structures and Algorithms) GitHub repository README file:
-
 ---
 
 # DSA Practice Repository
