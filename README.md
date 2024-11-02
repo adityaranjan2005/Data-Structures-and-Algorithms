@@ -23,7 +23,7 @@ This repository contains solutions to various Data Structures and Algorithms (DS
    
 2. Navigate to the desired category to find the problem and its solution.
 
-3. Solutions are provided in the form of code files (`.py`/`.js`/`.java`), with a brief explanation at the top of each file.
+3. Solutions are provided in the form of code files (`.py`/`.js`/`.java`).
 
 ## 🚀 Contribution
 
