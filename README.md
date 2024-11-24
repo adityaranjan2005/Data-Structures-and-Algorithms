@@ -34,7 +34,7 @@ If you'd like to contribute by adding new problems or improving existing solutio
 
 Feel free to reach out to me for any queries:
 
-- [Your LinkedIn Profile](https://linkedin.com/in/adityaranjan2005)
-- [Your Email Address](mailto:103ranjanadityakishu@gmail.com)
+- [LinkedIn](https://linkedin.com/in/adityaranjan2005)
+- [Mail](mailto:103ranjanadityakishu@gmail.com)
 
 ---
