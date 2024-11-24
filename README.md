@@ -18,7 +18,7 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dsa-practice.git
+   [git clone https://github.com/yourusername/dsa-practice.git](https://github.com/adityaranjan2005/Data-Structures-and-Algorithms.git)
    ```
    
 2. Navigate to the desired category to find the problem and its solution.
